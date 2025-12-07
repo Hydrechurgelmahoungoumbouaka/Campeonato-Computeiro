@@ -1,0 +1,13 @@
+Arquivos
+	saida.txt=10
+Valgrind
+	desconto=0.3
+Validações
+	busca=1.0
+	equipe=1.0
+	jogador=1.0
+	main=3.0
+	partida=1.0
+	inconsistencias=1.0
+	relatorio=2.0
+
